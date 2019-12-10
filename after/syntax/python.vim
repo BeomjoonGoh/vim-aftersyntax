@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language:     Python
-" Maintainer:   BeomjoonGoh
+" Maintainer:   Beomjoon Goh
 " Last Change:  10 Dec 2019 17:26:53 +0900
 
 syntax match pythonDelimiter "(\|)\|{\|}\|\[\|\]\|,"

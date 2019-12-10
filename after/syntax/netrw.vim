@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language:      netrw
-" Maintainer:    Beomjoon Goh (bjgoh1990)
+" Maintainer:    Beomjoon Goh
 " Last Change:   10 Dec 2019 16:55:42 +0900
 
 if exists("g:netrw_special_syntax") && g:netrw_special_syntax
