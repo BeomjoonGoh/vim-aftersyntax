@@ -1,5 +1,7 @@
 # vim aftersyntax
-`after/syntax` directory. This plugin contains syntax highlighting for
+
+My `after/syntax` directory. This plugin contains small amount of additional
+syntax highlightings for
   - `c.vim`
   - `cpp.vim`
   - `fortran.vim`
@@ -9,12 +11,14 @@
   - `tex.vim`
   - `tex/amsmath.vim`
 
-### c.vim & cpp.vim
-These two depends on 'octol/vim-cpp-enhanced-highlight' plugin by Jon Haggblad
-<jon@haeggblad.com>.
-See 
-    https://github.com/octol/vim-cpp-enhanced-highlight
+
+### cpp.vim
+
+This depends on [vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight)
+plugin by Jon Haggblad <jon@haeggblad.com>.
+
 
 ### amsmath.vim
+
 Syntax highlighting supprot for the amsmath package by Charles E. Campbell from
-    http://www.drchip.org/astronaut/vim/index.html#VimFuncs
+<http://www.drchip.org/astronaut/vim/index.html#VimFuncs>
