@@ -10,6 +10,7 @@ syntax highlightings for
   - `qf.vim`
   - `tex.vim`
   - `tex/amsmath.vim`
+  - `sh.vim`
 
 
 ### cpp.vim
