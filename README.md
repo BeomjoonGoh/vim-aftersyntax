@@ -4,8 +4,6 @@ My `after/syntax` directory. This plugin contains small amount of additional
 syntax highlightings for
   - `c.vim`
   - `cpp.vim`
-  - `fortran.vim`
-  - `netrw.vim`
   - `python.vim`
   - `qf.vim`
   - `tex.vim`
