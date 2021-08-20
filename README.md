@@ -3,6 +3,7 @@
 My `after/syntax` directory. This plugin contains small amount of additional
 syntax highlightings for
   - `c.vim`
+  - `calendar.vim
   - `cpp.vim`
   - `python.vim`
   - `qf.vim`
